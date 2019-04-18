@@ -1,3 +1,3 @@
 # Oster
 
-![easter-egg](./easter-egg.jpg "easter egg")
+![easter-egg](./easter-egg.png "easter egg")
